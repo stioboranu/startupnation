@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://localhost:4000</id>
+    <title>Education StartUp • Posts by &#34;salut&#34; tag</title>
+    <link href="http://localhost:4000" />
+    <updated>2020-04-20T21:44:21.000Z</updated>
+    <category term="Salut" />
+    <category term="Bun venit!" />
+    <entry>
+        <id>http://localhost:4000/2020/04/First-Post/</id>
+        <title>First Post</title>
+        <link rel="alternate" href="http://localhost:4000/2020/04/First-Post/"/>
+        <content type="html">&lt;p&gt;This is out first Blog Post!&lt;/p&gt;
+&lt;h2 id=&#34;Wellcome&#34;&gt;&lt;a href=&#34;#Wellcome&#34; class=&#34;headerlink&#34; title=&#34;Wellcome&#34;&gt;&lt;/a&gt;Wellcome&lt;/h2&gt;&lt;p&gt;Welcome to our Blog!&lt;/p&gt;
+</content>
+        <category term="Salut" />
+        <category term="Bun venit!" />
+        <updated>2020-04-20T21:44:21.000Z</updated>
+    </entry>
+</feed>

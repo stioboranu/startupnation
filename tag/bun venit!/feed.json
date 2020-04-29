@@ -1,0 +1,19 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Education StartUp • All posts by \"bun venit!\" tag",
+    "description": "An educative site that teaches you new things",
+    "home_page_url": "http://localhost:4000",
+    "items": [
+        {
+            "id": "http://localhost:4000/2020/04/First-Post/",
+            "url": "http://localhost:4000/2020/04/First-Post/",
+            "title": "First Post",
+            "date_published": "2020-04-20T21:44:21.000Z",
+            "content_html": "<p>This is out first Blog Post!</p>\n<h2 id=\"Wellcome\"><a href=\"#Wellcome\" class=\"headerlink\" title=\"Wellcome\"></a>Wellcome</h2><p>Welcome to our Blog!</p>\n",
+            "tags": [
+                "Salut",
+                "Bun venit!"
+            ]
+        }
+    ]
+}
