@@ -1,31 +1,32 @@
+  
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://localhost:4000</id>
-    <title>Education StartUp</title>
-    <link href="http://localhost:4000" />
+    <id>http://https://stioboranu.github.io</id>
+    <title>EduStartUp</title>
+    <link href="http://https://stioboranu.github.io" />
     <updated>2020-04-29T14:27:11.000Z</updated>
     <category term="Salut" />
     <category term="Bun venit!" />
     <entry>
-        <id>http://localhost:4000/2020/04/Alta-postare/</id>
+        <id>http://https//stioboranu.github.io/2020/04/Alta-postare/</id>
         <title>Alta postare</title>
-        <link rel="alternate" href="http://localhost:4000/2020/04/Alta-postare/"/>
-        <content type="html">&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;h1 id=&#34;Here-is-some-simple-markdown&#34;&gt;&lt;a href=&#34;#Here-is-some-simple-markdown&#34; class=&#34;headerlink&#34; title=&#34;Here is some simple markdown.&#34;&gt;&lt;/a&gt;Here is some simple markdown.&lt;/h1&gt;&lt;/body&gt;&lt;/html&gt;</content>
+        <link rel="alternate" href="http://https//stioboranu.github.io/2020/04/Alta-postare/"/>
+        <content type="html">&lt;h1 id=&#34;Here-is-some-simple-markdown&#34;&gt;&lt;a href=&#34;#Here-is-some-simple-markdown&#34; class=&#34;headerlink&#34; title=&#34;Here is some simple markdown.&#34;&gt;&lt;/a&gt;Here is some simple markdown.&lt;/h1&gt;</content>
         <updated>2020-04-29T14:27:11.000Z</updated>
     </entry>
     <entry>
-        <id>http://localhost:4000/2020/04/Calipso/</id>
+        <id>http://https//stioboranu.github.io/2020/04/Calipso/</id>
         <title>Calipso</title>
-        <link rel="alternate" href="http://localhost:4000/2020/04/Calipso/"/>
+        <link rel="alternate" href="http://https//stioboranu.github.io/2020/04/Calipso/"/>
         <content type="html">&lt;p&gt;This is out first Blog Post!&lt;/p&gt;
 &lt;h2 id=&#34;Wellcome&#34;&gt;&lt;a href=&#34;#Wellcome&#34; class=&#34;headerlink&#34; title=&#34;Wellcome&#34;&gt;&lt;/a&gt;Wellcome&lt;/h2&gt;&lt;p&gt;Welcome to our Calipso!&lt;/p&gt;
 </content>
         <updated>2020-04-25T12:19:45.000Z</updated>
     </entry>
     <entry>
-        <id>http://localhost:4000/2020/04/First-Post/</id>
+        <id>http://https//stioboranu.github.io/2020/04/First-Post/</id>
         <title>First Post</title>
-        <link rel="alternate" href="http://localhost:4000/2020/04/First-Post/"/>
+        <link rel="alternate" href="http://https//stioboranu.github.io/2020/04/First-Post/"/>
         <content type="html">&lt;p&gt;This is out first Blog Post!&lt;/p&gt;
 &lt;h2 id=&#34;Wellcome&#34;&gt;&lt;a href=&#34;#Wellcome&#34; class=&#34;headerlink&#34; title=&#34;Wellcome&#34;&gt;&lt;/a&gt;Wellcome&lt;/h2&gt;&lt;p&gt;Welcome to our Blog!&lt;/p&gt;
 </content>
@@ -34,9 +35,9 @@
         <updated>2020-04-20T21:44:21.000Z</updated>
     </entry>
     <entry>
-        <id>http://localhost:4000/2020/04/hello-world/</id>
+        <id>http://https//stioboranu.github.io/2020/04/hello-world/</id>
         <title>Hello World</title>
-        <link rel="alternate" href="http://localhost:4000/2020/04/hello-world/"/>
+        <link rel="alternate" href="http://https//stioboranu.github.io/2020/04/hello-world/"/>
         <content type="html">&lt;p&gt;Welcome to &lt;a href=&#34;https://hexo.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&#34;https://hexo.io/docs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&#34;https://hexo.io/docs/troubleshooting.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&#34;https://github.com/hexojs/hexo/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;Quick-Start&#34;&gt;&lt;a href=&#34;#Quick-Start&#34; class=&#34;headerlink&#34; title=&#34;Quick Start&#34;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&#34;Create-a-new-post&#34;&gt;&lt;a href=&#34;#Create-a-new-post&#34; class=&#34;headerlink&#34; title=&#34;Create a new post&#34;&gt;&lt;/a&gt;Create a new post&lt;/h3&gt;&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;$ hexo new &lt;span class=&#34;string&#34;&gt;&#34;My New Post&#34;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
