@@ -2,7 +2,7 @@
 <rss version="2.0">
     <channel>
         <title>EduStartUp</title>
-        <link>http://https://stioboranu.github.io</link>
+        <link>https://stioboranu.github.io</link>
         <description>An educative site that teaches you new things</description>
         <language>ro</language>
         <pubDate>Wed, 29 Apr 2020 17:27:11 +0300</pubDate>
@@ -10,25 +10,25 @@
         <category>Salut</category>
         <category>Bun venit!</category>
         <item>
-            <guid isPermalink="true">http://https//stioboranu.github.io/2020/04/Alta-postare/</guid>
+            <guid isPermalink="true">https://stioboranu.github.io/2020/04/Alta-postare/</guid>
             <title>Alta postare</title>
-            <link>http://https//stioboranu.github.io/2020/04/Alta-postare/</link>
+            <link>https://stioboranu.github.io/2020/04/Alta-postare/</link>
             <pubDate>Wed, 29 Apr 2020 17:27:11 +0300</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;Here-is-some-simple-markdown&#34;&gt;&lt;a href=&#34;#Here-is-some-simple-markdown&#34; class=&#34;headerlink&#34; title=&#34;Here is some simple markdown.&#34;&gt;&lt;/a&gt;Here is some simple markdown.&lt;/h1&gt; ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://https//stioboranu.github.io/2020/04/Calipso/</guid>
+            <guid isPermalink="true">https://stioboranu.github.io/2020/04/Calipso/</guid>
             <title>Calipso</title>
-            <link>http://https//stioboranu.github.io/2020/04/Calipso/</link>
+            <link>https://stioboranu.github.io/2020/04/Calipso/</link>
             <pubDate>Sat, 25 Apr 2020 15:19:45 +0300</pubDate>
             <description><![CDATA[ &lt;p&gt;This is out first Blog Post!&lt;/p&gt;
 &lt;h2 id=&#34;Wellcome&#34;&gt;&lt;a href=&#34;#Wellcome&#34; class=&#34;headerlink&#34; title=&#34;Wellcome&#34;&gt;&lt;/a&gt;Wellcome&lt;/h2&gt;&lt;p&gt;Welcome to our Calipso!&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://https//stioboranu.github.io/2020/04/First-Post/</guid>
+            <guid isPermalink="true">https://stioboranu.github.io/2020/04/First-Post/</guid>
             <title>First Post</title>
-            <link>http://https//stioboranu.github.io/2020/04/First-Post/</link>
+            <link>https://stioboranu.github.io/2020/04/First-Post/</link>
             <category>Salut</category>
             <category>Bun venit!</category>
             <pubDate>Tue, 21 Apr 2020 00:44:21 +0300</pubDate>
@@ -37,9 +37,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://https//stioboranu.github.io/2020/04/hello-world/</guid>
+            <guid isPermalink="true">https://stioboranu.github.io/2020/04/hello-world/</guid>
             <title>Hello World</title>
-            <link>http://https//stioboranu.github.io/2020/04/hello-world/</link>
+            <link>https://stioboranu.github.io/2020/04/hello-world/</link>
             <pubDate>Mon, 20 Apr 2020 22:56:15 +0300</pubDate>
             <description><![CDATA[ &lt;p&gt;Welcome to &lt;a href=&#34;https://hexo.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&#34;https://hexo.io/docs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&#34;https://hexo.io/docs/troubleshooting.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&#34;https://github.com/hexojs/hexo/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;Quick-Start&#34;&gt;&lt;a href=&#34;#Quick-Start&#34; class=&#34;headerlink&#34; title=&#34;Quick Start&#34;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&#34;Create-a-new-post&#34;&gt;&lt;a href=&#34;#Create-a-new-post&#34; class=&#34;headerlink&#34; title=&#34;Create a new post&#34;&gt;&lt;/a&gt;Create a new post&lt;/h3&gt;&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;$ hexo new &lt;span class=&#34;string&#34;&gt;&#34;My New Post&#34;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
